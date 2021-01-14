@@ -1,0 +1,7 @@
+Lo primero que se hace es crear la estructura del HTML y luego darle estilo con CSS.
+Es decir que si hago por ejemplo la estructura de la cabecera o header, seguidamente hago el estilo.
+Y asi sucesivamente con el banner, el content, aside, etc.
+Para el menu del navbar se utiliza UL.
+El margin 0px auto, sirve para centrar.
+
+Las cards, los icons, el h2 y el P van dentro de un div y a cada elemento se le da un estilo.
